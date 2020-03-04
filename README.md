@@ -7,3 +7,5 @@ The website must consist of 7 pages total, including:
   - Four visualization pages
   - A comparisons page
   - A data page
+
+There is also a navigation menu at the top of every page
