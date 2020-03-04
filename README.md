@@ -8,4 +8,5 @@ The website must consist of 7 pages total, including:
   - A comparisons page
   - A data page
 
-There is also a navigation menu at the top of every page
+There is also a navigation menu at the top of every page that contains:
+  - the name of the site on the left of the nav which allows users to return to the landing page from any page
