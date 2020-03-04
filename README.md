@@ -6,3 +6,4 @@ The website must consist of 7 pages total, including:
   - A landing page
   - Four visualization pages
   - A comparisons page
+  - A data page
