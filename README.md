@@ -10,3 +10,4 @@ The website must consist of 7 pages total, including:
 
 There is also a navigation menu at the top of every page that contains:
   - the name of the site on the left of the nav which allows users to return to the landing page from any page
+  - Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page
