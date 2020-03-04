@@ -4,3 +4,4 @@ I have created individual pages for each plot and a means by which to navigate b
 
 The website must consist of 7 pages total, including:
   - A landing page
+  - Four visualization pages
